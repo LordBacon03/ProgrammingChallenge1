@@ -1,0 +1,9 @@
+Objective:
+Read a csv file that contains names, amount due, and email.
+If the amount is less than $40 --> Send an email notifying the person
+
+Programs/header files:
+1. create an algorithm that reads a people's name and finds the money stored.
+2. create a header file that gives the user several options such as viewing the people under the threshold and the number of people as well
+3. Create a header file that emails those people under the threashold and allow the user to make a message for them.
+
